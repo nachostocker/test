@@ -1,1 +1,14 @@
 Hello World
+
+I'm Ignacio, an engineer from Argentina, I'm also Swiss and I'm looking to switch into a more analytical role.
+As for my experience in Argentina, I worked playing different roles in diverse companies, such as lab assistant in flavours industry, brewer, energy efficiency expert in small consulting firmas and as an energy data analyst for a large energy distribution company.
+The last 3 years in Switzerland, I worked mostly as a project manager/leader overseeing various projects connected to photovoltaic energy optimization, monitoring with smart devices, large pv systems installations and small wind turbines systems.
+
+As for my experience in data analytics, I took data analytics courses in a digital academy. And in the past, I'd had experience analyzing big data sets in Excel, created and improved automatization codes in VBA, consulting databases with SQL and designed databases that feed into PowerBI dashboards. Lately I've programmed a weather station in raspberry pi 4 (in Python and visualizations in Adafruit IO) and with the same device extracted data from an inverter (in NodeRED), then I managed to connect it to a timeseries database in InfluxDB and visualize this data in a dashboard in Grafana.
+
+Now I am looking forward to switch into a role as a data scientist in the energy industry. I'm taking this course to deepen my knowledge in python and data science and to generate projects related to energy analytics.
+
+That's pretty much it. 
+
+All the best,
+Ignacio
